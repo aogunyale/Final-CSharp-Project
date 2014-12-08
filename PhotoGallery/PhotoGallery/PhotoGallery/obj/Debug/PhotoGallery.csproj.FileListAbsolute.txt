@@ -1,0 +1,42 @@
+C:\Users\ykw\Desktop\CIST 0265\Module 6\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\Users\ykw\Desktop\CIST 0265\Module 6\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\Users\ykw\Desktop\CIST 0265\Module 6\PhotoGallery\PhotoGallery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ykw\Desktop\CIST 0265\Module 6\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Form1.resources
+C:\Users\ykw\Desktop\CIST 0265\Module 6\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+C:\Users\ykw\Desktop\CIST 0265\Module 6\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.Cache
+C:\Users\ykw\Desktop\CIST 0265\Module 6\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\Users\ykw\Desktop\CIST 0265\Module 6\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.pdb
+C:\Users\ado16\Desktop\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\Users\ado16\Desktop\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.pdb
+C:\Users\ado16\Desktop\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\Users\ado16\Desktop\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\Users\ado16\Desktop\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ado16\Desktop\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Form1.resources
+C:\Users\ado16\Desktop\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+C:\Users\ado16\Desktop\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.Cache
+C:\Users\ado16\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\Users\ado16\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.pdb
+C:\Users\ado16\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\Users\ado16\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\Users\ado16\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ado16\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Form1.resources
+C:\Users\ado16\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+C:\Users\ado16\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.Cache
+C:\Users\Bisi\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\Users\Bisi\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.pdb
+C:\Users\Bisi\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\Users\Bisi\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\Users\Bisi\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\Users\Bisi\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bisi\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Form1.resources
+C:\Users\Bisi\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+C:\Users\Bisi\Desktop\Barcelona PhotoGallery\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.Cache
+C:\Users\ado16\Desktop\PhotoGalleryreviseds\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\Users\ado16\Desktop\PhotoGalleryreviseds\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\Users\ado16\Desktop\PhotoGalleryreviseds\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.pdb
+C:\Users\ado16\Desktop\PhotoGalleryreviseds\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\Users\ado16\Desktop\PhotoGalleryreviseds\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\Users\ado16\Desktop\PhotoGalleryreviseds\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ado16\Desktop\PhotoGalleryreviseds\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Form1.resources
+C:\Users\ado16\Desktop\PhotoGalleryreviseds\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+C:\Users\ado16\Desktop\PhotoGalleryreviseds\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\PhotoGallery.csproj.GenerateResource.Cache
